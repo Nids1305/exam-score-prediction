@@ -4,3 +4,15 @@ This project predicts students' exam scores using Linear Regression, Ridge Regre
 
 ## Dataset
 Contains student features like age, study hours, sleep quality, and attendance.
+
+## Features & Models
+
+Linear Regression
+
+Ridge Regression
+
+Random Forest
+
+## Feature Engineering & Preprocessing
+
+## Correlation Analysis & Visualizations
